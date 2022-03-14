@@ -1,0 +1,15 @@
+h1{
+    color:red;
+    background-color: black;
+}
+body{
+    background-color:darkgray ;
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+   background-position-x:center;
+}
+h1{
+    border-width: 5px;
+    border-style:solid;
+    border-color:blue;
+}
